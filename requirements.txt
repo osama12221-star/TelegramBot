@@ -4,4 +4,4 @@ undetected-chromedriver
 nest_asyncio
 pytz
 tabulate
-gunicorn main.py
+gunicorn
