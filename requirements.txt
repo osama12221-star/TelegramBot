@@ -3,4 +3,5 @@ selenium
 undetected-chromedriver
 nest_asyncio
 pytz
+tabulate
 gunicorn
