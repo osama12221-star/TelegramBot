@@ -2,4 +2,5 @@ python-telegram-bot
 selenium
 undetected-chromedriver
 nest_asyncio
+pytz
 gunicorn
